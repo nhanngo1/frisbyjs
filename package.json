@@ -1,0 +1,17 @@
+{
+    "name": "frisbyjs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "frisby": "^2.0.16",
+        "jest": "^23.4.1",
+        "jest-html-reporter": "^2.4.1"
+    }
+}

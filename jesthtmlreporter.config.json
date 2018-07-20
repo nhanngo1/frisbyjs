@@ -1,0 +1,5 @@
+{
+    "pageTitle": "Ascend API Test Report",
+    "outputPath": "./report/api-test-report.html",
+    "includeFailureMsg": true
+}
