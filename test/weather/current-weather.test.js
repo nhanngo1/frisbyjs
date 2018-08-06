@@ -6,4 +6,10 @@ describe('Get current weather', function() {
             .expect('json', 'name', 'Paris')
             .expect('status', 200);
     });
+
+    it('api.acp.wize.mx info', function() {
+        frisby.get("https://api.acp.wize.mx/info")
+            .expect('status', 200)
+    });
+
 })
